@@ -1,0 +1,9 @@
+Transaction_ID,Date,Product,Category,Quantity,Price,Revenue,Region
+TX1001,2026-01-15,Wireless Mouse,Electronics,5,25.00,125.00,North America
+TX1002,2026-01-16,Mechanical Keyboard,Electronics,2,85.00,170.00,Europe
+TX1003,2026-01-17,USB-C Hub,Accessories,10,35.00,350.00,Asia
+TX1004,2026-01-18,27-inch Monitor,Displays,1,299.99,299.99,North America
+TX1005,2026-01-19,Ergonomic Chair,Furniture,2,199.50,399.00,Europe
+TX1006,2026-01-20,Standing Desk,Furniture,1,450.00,450.00,North America
+TX1007,2026-01-21,Noise-Canceling Headphones,Audio,4,120.00,480.00,Asia
+TX1008,2026-01-22,Webcam 4K,Accessories,3,89.00,267.00,Europe

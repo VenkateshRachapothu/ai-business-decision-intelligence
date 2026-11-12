@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+.env
+uploads/
+processed_data/
+*.db
+node_modules/
+dist/
+build/
+.DS_Store
+# Ignore generated RAG vector database
+/backend/rag/chroma_db/
